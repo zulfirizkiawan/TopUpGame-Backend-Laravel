@@ -1,0 +1,22 @@
+.upload-label {
+    display: block;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #d3d3d35e;
+  }
+
+  
+  .upload-label:hover {
+    background-color: #d1d1d1;
+  }
+  
+  .upload-input {
+    display: none;
+  }
+
+  .img-preview{
+    border-radius: 8px;
+  }
